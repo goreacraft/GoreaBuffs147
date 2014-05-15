@@ -1,0 +1,9 @@
+Dimension: world
+Speed: true
+Speed time: 201
+Speed power: 1
+Jump: true
+Jump time: 201
+Jump power: 1
+Run again in: 200
+Time to wait between tasks: 0

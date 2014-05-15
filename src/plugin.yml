@@ -1,0 +1,8 @@
+name: GoreaBuffs
+author: GoreaCraft
+main: com.goreacraft.plugins.goreabuffs.Main
+version: 1.0
+commands:
+  goreabuffs:
+      aliases: [gbuff, gbuffs]
+      description: adds buffs to players in a specific world, type '/gbuff help' for more info
